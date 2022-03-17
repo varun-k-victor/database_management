@@ -4,7 +4,7 @@
 
 ABOUT THE PROGRAM
 
-User just opens the database_access.py and uses it to interact with database.py.database_access.py makes information retrieval and other operations very simple.
+User just opens the database_access.py and uses it to interact with database.py. database_access.py makes information retrieval and other operations very simple.
 
 NOTE
 
